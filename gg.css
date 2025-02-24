@@ -1,0 +1,14 @@
+h2{
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: bolder;
+    font-style: italic;
+}
+h1{
+    color: rgb(68, 0, 132);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: bolder;
+    font-style: italic;
+}
